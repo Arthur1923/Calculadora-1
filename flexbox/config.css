@@ -1,0 +1,25 @@
+.container{
+    display: flex; font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    flex-flow: column; 
+    height: 100% flex-end;
+    position: 100%;
+    
+}
+.titulo{
+    text-align: center; 
+    border-style: groove; 
+    border-color: blue; 
+    color: white;
+    background-color: green;
+}
+.fundo{
+ background-color: black
+}
+.flex{
+    color:white;
+    font-size:20px;
+}
+.caixa{
+ height: 100px;
+top: 0; right: 0
+}

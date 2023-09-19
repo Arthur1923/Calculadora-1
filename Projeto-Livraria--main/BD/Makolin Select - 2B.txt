@@ -1,0 +1,29 @@
+Fornecedor
+
+select f.Id_fornecedor, f.nome_editora,f.cnpj,f.telefone, e.id_endereço
+from fornecedor f 
+join endereço e on id.endereco = id_endereço_fk
+
+
+Compras
+
+select id_compra, quantidade, data_compra, id_fornecedor_fk
+from compras c
+join fornecedor f on f.id_fornecedor = c.id_fornecedor_fk
+
+
+Pedido
+
+select pedidos_id, Id_livro_fk,data_venda,unidades,valor_da_venda,Id_vendedor
+from pedido p 
+join livros l on p.Id_livro_fk = l.id_livros
+
+
+Autor x livro
+
+select Id_livros, id_autor
+from livro l
+join autor a on L.Id_livro_fk = a.autor
+
+
+ 

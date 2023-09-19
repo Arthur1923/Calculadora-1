@@ -1,0 +1,81 @@
+
+.header{
+  background-color:  #000000;
+  color: aliceblue;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0%;
+  font-size: 40px;
+}
+
+body{
+  margin: 0;
+  padding: 0;
+  background: linear-gradient(75deg,#3d3deb 1%, #f35656 99%)
+}
+
+ .botaoCadastro{
+  margin-left: 740px;
+  margin-top: -30px;
+  padding: 0%;
+  border-radius: 100px;
+
+ }
+
+nav{
+  text-align: center;
+  margin-top: -70px;
+  margin-left: 300px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+nav .navegacao{
+  color: aliceblue;
+  text-decoration:none;
+  padding: 0px 50px 10px 0px;
+  font-size: 30px;
+  position: relative;
+}
+nav .navegacao::after{
+  content: "";
+  width: 0%;
+  height: 4px;
+  background: linear-gradient(75deg,#3debb0 1%, #8956f3 99%);
+  position: absolute;
+  top: 0;
+  left: 0;
+  transition: 0.2s ease-in;
+}
+nav .navegacao:hover::after{
+  width: 100%;
+}
+
+.slider1{
+  width: 300px;
+  height: 150px;
+  margin-top: 300px;
+}
+.slider2{
+  width: 300px;
+  height: 150px;
+  position: absolute;
+  margin-left: 4000;
+}
+.slider3{
+  width: 300px;
+  height: 150px;
+  position:absolute;
+}
+
+.categorias{
+position: absolute;
+margin-top: -40px;
+margin-left: 450px;
+}
+
+
+
+
+
+  
+
+ 

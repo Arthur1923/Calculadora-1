@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<workspace name='!!LastMenu' version='201' visible='true' thumbsize='72' mode='thumbnail' scroll='auto'>
+	<show thumbsOnly='false' gridLock='false' hidden='false' reject='true' folders='true' />
+	<bars dynabar='true' />
+	<bounds top='2' left='2' right='1022' bottom='726' maximized='false' />
+
+	<listView useSettings='true'>
+		<header field='name' width='330' />
+		<header field='date-created' width='130' />
+		<header field='file-size' width='130' />
+		<header field='document-kind' width='130' />
+		<header field='rating' width='130' />
+		<header field='label' width='130' />
+		<header field='keywords' width='130' />
+		<header field='date-modified' width='130' />
+		<header field='dimensions' width='130' />
+		<header field='resolution' width='130' />
+		<header field='color-profile' width='130' /> 
+	</listView>
+
+	<hubset width='0.1992031931877' visible='true' position='0'>
+		<hub height='0.3698630034924'>
+			<tab name='favoritesTab' selected='true' />
+			<tab name='foldersTab' selected='false' />
+		</hub>
+		<hub height='0.5565068721771'>
+			<tab name='filterTab' selected='true' />
+			<tab name='collectionTab' selected='false' />
+			<tab name='publishTab' selected='false' />
+		</hub>
+	</hubset>
+
+	<hubset width='0' visible='true' position='1'>
+		<hub height='0.9691780805588'>
+			<tab name='contentTab' selected='true' />
+		</hub>
+	</hubset>
+
+	<hubset width='0.7998008131981' visible='true' position='2'>
+		<hub height='0.3698630034924'>
+			<tab name='cinemaPreviewTab' selected='true' />
+		</hub>
+		<hub height='0.5565068721771'>
+			<tab name='metadataTab' selected='true' />
+			<tab name='keywordsTab' selected='false' />
+		</hub>
+	</hubset>
+
+</workspace>
+

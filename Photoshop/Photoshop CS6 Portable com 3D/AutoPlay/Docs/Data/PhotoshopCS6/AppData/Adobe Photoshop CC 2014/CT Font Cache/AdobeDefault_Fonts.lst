@@ -1,0 +1,602 @@
+%!Adobe-FontList 1.16
+%Locale:0x416
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeDevanagari-Bold
+FamilyName:Adobe Devanagari
+StyleName:Bold
+FullName:Adobe Devanagari Bold
+MenuName:Adobe Devanagari
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.1
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:335268
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Adobe Devanagari Bold
+NameArray:0,Win,1,Adobe Devanagari
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Regular
+FamilyName:Kozuka Gothic Pr6N
+StyleName:R
+FullName:Kozuka Gothic Pr6N R
+MenuName:Kozuka Gothic Pr6N R
+StyleBits:0
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:R
+FullNameNative:小塚ゴシック Pr6N R
+WritingScript:Japanese
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.10
+DataFormat:sfntData
+isCFF:yes
+FileLength:5434416
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N R
+NameArray:1,Mac,4,小塚ゴシック Pr6N R
+NameArray:0,Win,1,Kozuka Gothic Pr6N R
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N R
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadArabic-Bold
+FamilyName:Myriad Arabic
+StyleName:Bold
+FullName:Myriad Arabic Bold
+MenuName:Myriad Arabic
+StyleBits:2
+FamilyNameNative:Myriad عربي
+StyleNameNative:Bold
+FullNameNative:Myriad عربي Bold
+WritingScript:Arabic
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.11
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:163876
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Myriad Arabic Bold
+NameArray:4,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad Arabic
+NameArray:0,Win,1,Myriad عربي
+NameArray:31,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad عربي
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadArabic-BoldIt
+FamilyName:Myriad Arabic
+StyleName:Bold Italic
+FullName:Myriad Arabic Bold Italic
+MenuName:Myriad Arabic
+StyleBits:3
+FamilyNameNative:Myriad عربي
+StyleNameNative:Bold Italic
+FullNameNative:Myriad عربي Bold Italic
+WritingScript:Arabic
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.12
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:185848
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Myriad Arabic Bold Italic
+NameArray:4,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad Arabic
+NameArray:0,Win,1,Myriad عربي
+NameArray:31,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad عربي
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadArabic-It
+FamilyName:Myriad Arabic
+StyleName:Italic
+FullName:Myriad Arabic Italic
+MenuName:Myriad Arabic
+StyleBits:1
+FamilyNameNative:Myriad عربي
+StyleNameNative:Italic
+FullNameNative:Myriad عربي Italic
+WritingScript:Arabic
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.13
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:182576
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Myriad Arabic Italic
+NameArray:4,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad Arabic
+NameArray:0,Win,1,Myriad عربي
+NameArray:31,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad عربي
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadArabic-Regular
+FamilyName:Myriad Arabic
+StyleName:Regular
+FullName:Myriad Arabic
+MenuName:Myriad Arabic
+StyleBits:0
+FamilyNameNative:Myriad عربي
+StyleNameNative:Regular
+FullNameNative:Myriad عربي Regular
+WritingScript:Arabic
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.14
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:158828
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Myriad Arabic
+NameArray:4,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad Arabic
+NameArray:0,Win,1,Myriad عربي
+NameArray:31,Win,1,Myriad عربي
+NameArray:0,Win,1,Myriad عربي
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadHebrew-Bold
+FamilyName:Myriad Hebrew
+StyleName:Bold
+FullName:Myriad Hebrew Bold
+MenuName:Myriad Hebrew
+StyleBits:2
+FamilyNameNative:Myriad עברית
+StyleNameNative:Bold
+FullNameNative:Myriad עברית Bold
+WritingScript:Hebrew
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.15
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:79640
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,4,Myriad Hebrew Bold
+NameArray:0,Win,1,Myriad Hebrew
+NameArray:5,Win,1,Myriad עברית
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadHebrew-BoldIt
+FamilyName:Myriad Hebrew
+StyleName:Bold Italic
+FullName:Myriad Hebrew Bold Italic
+MenuName:Myriad Hebrew
+StyleBits:3
+FamilyNameNative:Myriad עברית
+StyleNameNative:Bold Italic
+FullNameNative:Myriad עברית Bold Italic
+WritingScript:Hebrew
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.16
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:80804
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Myriad Hebrew Bold Italic
+NameArray:0,Win,1,Myriad Hebrew
+NameArray:5,Win,1,Myriad עברית
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadHebrew-It
+FamilyName:Myriad Hebrew
+StyleName:Italic
+FullName:Myriad Hebrew Italic
+MenuName:Myriad Hebrew
+StyleBits:1
+FamilyNameNative:Myriad עברית
+StyleNameNative:Italic
+FullNameNative:Myriad עברית Italic
+WritingScript:Hebrew
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.17
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:80852
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:120
+NameArray:0,Mac,4,Myriad Hebrew Italic
+NameArray:0,Win,1,Myriad Hebrew
+NameArray:5,Win,1,Myriad עברית
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadHebrew-Regular
+FamilyName:Myriad Hebrew
+StyleName:Regular
+FullName:Myriad Hebrew
+MenuName:Myriad Hebrew
+StyleBits:0
+FamilyNameNative:Myriad עברית
+StyleNameNative:Regular
+FullNameNative:Myriad עברית Regular
+WritingScript:Hebrew
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.18
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:80464
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:120
+NameArray:0,Mac,18,Myriad Hebrew Regular
+NameArray:0,Mac,4,Myriad Hebrew
+NameArray:0,Win,1,Myriad Hebrew
+NameArray:5,Win,1,Myriad עברית
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Bold
+FamilyName:Myriad Pro
+StyleName:Bold
+FullName:Myriad Pro Bold
+MenuName:Myriad Pro
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.19
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97124
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro Bold
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeDevanagari-BoldItalic
+FamilyName:Adobe Devanagari
+StyleName:Bold Italic
+FullName:Adobe Devanagari Bold Italic
+MenuName:Adobe Devanagari
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.2
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:341388
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,4,Adobe Devanagari Bold Italic
+NameArray:0,Win,1,Adobe Devanagari
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-BoldIt
+FamilyName:Myriad Pro
+StyleName:Bold Italic
+FullName:Myriad Pro Bold Italic
+MenuName:Myriad Pro
+StyleBits:3
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.20
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:99304
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro Bold It
+NameArray:0,Mac,4,Myriad Pro Bold Italic
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-It
+FamilyName:Myriad Pro
+StyleName:Italic
+FullName:Myriad Pro Italic
+MenuName:Myriad Pro
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.21
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97800
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,18,Myriad Pro It
+NameArray:0,Mac,4,Myriad Pro Italic
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MyriadPro-Regular
+FamilyName:Myriad Pro
+StyleName:Regular
+FullName:Myriad Pro
+MenuName:Myriad Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.22
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:97072
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Myriad Pro
+NameArray:0,Win,1,Myriad Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeDevanagari-Italic
+FamilyName:Adobe Devanagari
+StyleName:Italic
+FullName:Adobe Devanagari Italic
+MenuName:Adobe Devanagari
+StyleBits:1
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.3
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:345548
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:1
+DesignSize:110
+NameArray:0,Mac,4,Adobe Devanagari Italic
+NameArray:0,Win,1,Adobe Devanagari
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeDevanagari-Regular
+FamilyName:Adobe Devanagari
+StyleName:Regular
+FullName:Adobe Devanagari
+MenuName:Adobe Devanagari
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.4
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:338928
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Adobe Devanagari
+NameArray:0,Win,1,Adobe Devanagari
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeFanHeitiStd-Bold
+FamilyName:Adobe Fan Heiti Std
+StyleName:B
+FullName:Adobe Fan Heiti Std B
+MenuName:Adobe Fan Heiti Std B
+StyleBits:2
+FamilyNameNative:Adobe 繁黑體 Std
+StyleNameNative:B
+FullNameNative:Adobe 繁黑體 Std B
+WritingScript:TraditionalChinese
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.5
+DataFormat:sfntData
+isCFF:yes
+FileLength:5500356
+FileModTime:1399524262
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Fan Heiti Std B
+NameArray:2,Mac,4,Adobe 繁黑體 Std B
+NameArray:2,Win,1,Adobe 繁黑體 Std B
+NameArray:2,Win,16,Adobe 繁黑體 Std
+NameArray:0,Win,1,Adobe Fan Heiti Std B
+NameArray:0,Win,16,Adobe Fan Heiti Std
+NameArray:2,Win,1,Adobe 繁黑體 Std B
+NameArray:2,Win,16,Adobe 繁黑體 Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeGurmukhi-Bold
+FamilyName:Adobe Gurmukhi
+StyleName:Bold
+FullName:Adobe Gurmukhi Bold
+MenuName:Adobe Gurmukhi
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.6
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:75812
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Adobe Gurmukhi Bold
+NameArray:0,Win,1,Adobe Gurmukhi
+NameArray:0,Win,1,Adobe ਗੁਰਮੁਖੀ
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:AdobeGurmukhi-Regular
+FamilyName:Adobe Gurmukhi
+StyleName:Regular
+FullName:Adobe Gurmukhi
+MenuName:Adobe Gurmukhi
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.7
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:74472
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Adobe Gurmukhi
+NameArray:0,Win,1,Adobe Gurmukhi
+NameArray:0,Win,1,Adobe ਗੁਰਮੁਖੀ
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:AdobeHeitiStd-Regular
+FamilyName:Adobe Heiti Std
+StyleName:R
+FullName:Adobe Heiti Std R
+MenuName:Adobe Heiti Std R
+StyleBits:0
+FamilyNameNative:Adobe 黑体 Std
+StyleNameNative:R
+FullNameNative:Adobe 黑体 Std R
+WritingScript:SimplifiedChinese
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.8
+DataFormat:sfntData
+isCFF:yes
+FileLength:12264148
+FileModTime:1399524262
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Adobe Heiti Std R
+NameArray:25,Mac,4,Adobe 黑体 Std R
+NameArray:0,Win,1,Adobe Heiti Std R
+NameArray:0,Win,16,Adobe Heiti Std
+NameArray:25,Win,1,Adobe 黑体 Std R
+NameArray:25,Win,16,Adobe 黑体 Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:KozGoPr6N-Bold
+FamilyName:Kozuka Gothic Pr6N
+StyleName:B
+FullName:Kozuka Gothic Pr6N B
+MenuName:Kozuka Gothic Pr6N B
+StyleBits:2
+FamilyNameNative:小塚ゴシック Pr6N
+StyleNameNative:B
+FullNameNative:小塚ゴシック Pr6N B
+WritingScript:Japanese
+OutlineFileName:C:\Program Files\Adobe\Adobe Photoshop CC 2014\Required\typesupport\.f\\.9
+DataFormat:sfntData
+isCFF:yes
+FileLength:5628192
+FileModTime:1399524262
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Kozuka Gothic Pr6N B
+NameArray:1,Mac,4,小塚ゴシック Pr6N B
+NameArray:0,Win,1,Kozuka Gothic Pr6N B
+NameArray:0,Win,16,Kozuka Gothic Pr6N
+NameArray:1,Win,1,小塚ゴシック Pr6N B
+NameArray:1,Win,16,小塚ゴシック Pr6N
+%EndFont
+

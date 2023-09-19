@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<keywords version="2">>
+	<set name="Eventos" disclosed="true">
+		<item name="Aniversário" />
+		<item name="Casamento" />
+		<item name="Formatura" />
+	</set>
+	<set name="Lugares" disclosed="true">
+		<item name="Nova York" />
+		<item name="Paris" />
+		<item name="San Jose" />
+		<item name="São Francisco" />
+		<item name="Tóquio" />
+	</set>
+	<set name="Pessoas" disclosed="true">
+		<item name="Matthew" />
+		<item name="Ryan" />
+	</set>
+</keywords>

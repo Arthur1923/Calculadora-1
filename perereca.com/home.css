@@ -1,0 +1,86 @@
+/* Home Section Styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #315528;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header Styles */
+header {
+    background-color: #c05050;
+    color: #000000;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+#home {
+    padding: 50px 0;
+    background-color: #b3da9c;
+}
+
+.banner img {
+    width: 100%;
+    height: auto;
+}
+
+.destaques {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+
+.destaque {
+    flex-basis: calc(33.33% - 20px);
+    text-align: center;
+}
+
+.destaque img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.destaque h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.destaque p {
+    line-height: 1.4;
+    margin-bottom: 20px;
+}
+
+

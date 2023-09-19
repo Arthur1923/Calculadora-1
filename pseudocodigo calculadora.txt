@@ -1,0 +1,37 @@
+ALGORITMO CALCULADORA
+
+DECLARAÇÃO:
+	Nome: Texto; 
+	Idade: Inteiro;
+	N1: Decimal;
+	N2: Decimal;
+	Operação: Texto;
+	Resultado: Decimal;
+
+INICIO:
+	ESCREVA("Digite seu nome")
+	LEIA (Nome)
+	ESCREVA("Digite sua idade")
+	LEIA(Idade)
+	ESCREVA("Digite um numero")
+	LEIA(N1)
+	ESCREVA("Digite outro numero")
+	LEIA (N2)
+	ESCREVA("Escolha uma operação (+ - * /)")
+	LEIA(Operação)
+		SE (Operação = +) ENTÃO
+			Resultado <- N1+N2
+		SENÃO
+			SE (Operação = -) ENTÃO
+				Resultado<-N1-N2
+			SENÃO
+				SE (Operação = /) ENTÃO
+					Resultado<- N1/N2
+				SENÃO
+					Resultado<- N1*N2
+				FIM-SE
+			FIM-SE
+		FIM-SE
+	ESCREVA("O resultado da operação é: ")
+	ESCREVA (Resultadu)
+FIM

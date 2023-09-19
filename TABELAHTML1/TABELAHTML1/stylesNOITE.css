@@ -1,0 +1,25 @@
+body {
+    font-family: Arial;
+    background-color: #161515;
+    color: white;
+}
+
+h1 {
+    color: white;
+    background-color: #107c41;
+}
+
+p {
+    background-color: #107c41;
+    font-size: 270%;
+}
+
+table {
+    font-size: 130%;
+    border-spacing: 0px;
+    background-color: #232323;
+}
+
+caption {
+    color: #107c41;
+}

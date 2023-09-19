@@ -1,0 +1,173 @@
+/* Reset some default styles */
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #315531;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header Styles */
+header {
+    background-color: #315531;
+    color: #000000;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+/* Contact Section Styles */
+#contato {
+    padding: 50px 0;
+    background-color: #b3da9c;
+    text-align: center;
+}
+
+#contato h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#contato p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+.contact-info {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+.contact-item {
+    flex: 1;
+    margin: 0 10px;
+}
+
+.contact-item img {
+    width: 40px;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.contact-item p {
+    font-size: 16px;
+}
+
+.contact-form {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ddd;
+    background-color: #f9f9f9;
+}
+
+.contact-form h3 {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.contact-form input[type="text"],
+.contact-form input[type="email"],
+.contact-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ddd;
+}
+
+.contact-form textarea {
+    resize: vertical;
+}
+
+.contact-form button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+.footer-logo img {
+    width: 80px;
+    height: auto;
+}
+
+.footer-contact {
+    margin-top: 10px;
+}
+
+.footer-social a {
+    margin: 0 10px;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    /* Adjust other styles for smaller screens */
+}
+
+
+
+.footer-logo img {
+    width: 80px;
+    height: auto;
+}
+
+.footer-contact {
+    margin-top: 10px;
+}
+
+.footer-social a {
+    margin: 0 10px;
+}
+
+/* Media Queries */
+@media (max-width: 768px) {
+    .container {
+        width: 90%;
+    }
+
+    /* Adjust other styles for smaller screens */
+}

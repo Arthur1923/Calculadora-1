@@ -1,0 +1,95 @@
+/* Tipos de Sapos Section Styles */
+
+body, h1, h2, h3, p, ul, li {
+    margin: 0;
+    padding: 0;
+}
+
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #315528;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+/* Header Styles */
+header {
+    background-color: #315528;
+    color: #7e7a7a;
+    padding: 10px 0;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.logo img {
+    width: 100px;
+    height: auto;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+
+#tipos-de-sapos {
+    padding: 50px 0;
+    background-color: #b3da9c;
+}
+
+.tipo-sapo {
+    background-color: #fff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.tipo-sapo img {
+    width: 200px;
+    height: auto;
+    margin-bottom: 10px;
+    position: center;
+}
+
+.tipo-sapo h3 {
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.tipo-sapo p {
+    line-height: 1.4;
+}
+.search {
+    margin-top: 30px;
+    text-align: center;
+}
+
+#search-box {
+    padding: 10px;
+    width: 300px;
+}
+
+#search-button {
+    padding: 10px 20px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}

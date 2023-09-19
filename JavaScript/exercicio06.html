@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Aula 05 -Estruturas com Função e if</title>
+	<script type="text/javascript">
+	       function idade(num) {
+		   var x = document.getElementById(num).value;
+		   if (x >=18) {
+		      document.getElementById('result').
+			  innerText="Maior de idade";
+			  }else{
+			     document.getElementById('result').
+				 innerText="Menor de idade";
+				 }
+				 }
+ </script>
+ </head>
+ <body>
+ <h1> Trabalhando com estruturas e função </h1>
+ <input type="text" id="txtidade" name = "idade"/>
+ <input type="button" value="verificar"
+ id="btuVerifica" name="verifica"
+ onclick="idade ('txtidade') ";/><br/><br/>
+				<label id="result" />
+				</body>
+				</html>

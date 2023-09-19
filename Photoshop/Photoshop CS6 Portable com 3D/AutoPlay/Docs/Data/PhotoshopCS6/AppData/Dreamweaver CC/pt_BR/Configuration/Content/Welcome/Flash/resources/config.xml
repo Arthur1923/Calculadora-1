@@ -1,0 +1,232 @@
+﻿<?xml version="1.0"?>
+<startpage version="2.0">
+	<layout>
+	<!-- list of the columns used -->
+		<column>
+			<!--can be one of recentitems, newitems or sampleitems-->
+			<recentitems max="10"/>
+		</column>
+		<column>
+			<!--can be one of recentitems, newitems or sampleitems-->
+			<newitems max="10"/>
+		</column>
+		<column>
+			<!--can be one of recentitems, newitems or sampleitems-->
+			<sampleitems max="6"/>
+			<extenditems max="0"/>
+		</column>
+	</layout>
+	
+	<strings>
+	<!-- list all strings used--> 
+<!-- used for default content when no internet connection is detected -->
+		<productname>Dreamweaver</productname>
+		<nointernethead>Adobe Dreamweaver CC</nointernethead>
+		<nointernetmain>Encontre as dicas mais recentes dos novos recursos, tutoriais e muito mais.</nointernetmain>
+
+		<!-- column 1: open -->
+		<openrecentitem>Abrir um item recente</openrecentitem>
+		<open>Abrir...</open>
+		
+		<!-- column 2: new -->
+		<createnew>Criar novo</createnew>
+    <newmulti>Layout de grade...</newmulti>
+		<newsite>Site…</newsite>
+    <more>Mais...</more>
+		
+		<!-- column 3: templates and extend -->
+		<createfromtemplates>Principais recursos</createfromtemplates>
+		<extend>Mais...</extend>
+		
+		<!-- don't show again checkbox at the bottom-->
+		<dontshowagain>Não mostrar novamente</dontshowagain>
+		<checkboxalert>Para ativar a tela de boas-vindas, escolha Mostrar tela de boas-vindas na categoria Geral da caixa de diálogo Preferências.</checkboxalert>
+		
+		<!-- these are live urls on the screen-->
+		<quicktour>Introdução »</quicktour>
+		<tutorial>Novos recursos »</tutorial>
+		<training>Recursos »</training>
+		
+		<!-- update url-->
+		<updateurl>http://www.adobe.com/go/dw_start_market</updateurl>
+		<updateiframewidth>325px</updateiframewidth>
+		<updateiframeheight>65px</updateiframeheight>		
+		<!-- used for issuing MMExecute JS commands and to indetify app in ActionScript-->
+		<appobject>dw</appobject>
+		
+		<!-- list of localizable weblinks -->
+		<urlquicktour>http://www.adobe.com/go/learn_dw_gettingstarted_br</urlquicktour>
+		<urltutorial>http://www.adobe.com/go/learn_dw_whatsnew_br</urltutorial>
+		<urltraining>http://www.adobe.com/go/learn_dw_resources_br</urltraining>
+		<urlshim>http://www.adobe.com/startpage/dw.swf</urlshim>
+		<localshim>resources/defaultdynswf.swf</localshim>
+		
+		<!-- URLs for videos, which are localized by adding things like "_fr" to them -->
+    <videourl0>http://www.adobe.com/go/dw_cc_vid1_br</videourl0>
+    <videourl1>http://www.adobe.com/go/dw_cc_vid2_br</videourl1>
+		<videourl2>http://www.adobe.com/go/dw_cc_vid3_br</videourl2>
+		<videourl3>http://www.adobe.com/go/dw_cc_vid4_br</videourl3>
+		<videourl4>http://www.adobe.com/go/dw_cc_vid5_br</videourl4>
+		<videourl5>http://www.adobe.com/go/dw11morevideos_br</videourl5>
+		
+		<!-- video link strings -->
+		<topvideos0>Novidades no Dreamweaver</topvideos0>
+		<topvideos1>Criação de estilos visuais com CSS Designer</topvideos1>
+		<topvideos2>Design responsivo aprimorado</topvideos2>
+		<topvideos3>Criação de apps com PhoneGap:Build</topvideos3>
+		<topvideos4>Suporte aprimorado a jQuery</topvideos4>
+		
+	</strings>
+	
+	<resources>
+		<!-- list of image resources -->
+    <icondoc>resources/images/appicondoc.png</icondoc>
+	    <!-- dont use appicondocsec.png since they are the same for now -->
+	    <icondocsecondary>resources/images/appicondoc.png</icondocsecondary>
+    <iconfolder>resources/images/folder.png</iconfolder>
+		<iconapp>resources/images/icon_app.png</iconapp>
+		<iconappxl>resources/images/appicon_xl.png</iconappxl>
+    <icondocsite>resources/images/siteicondoc.png</icondocsite>
+    <icondocmulti>resources/images/multiscreenIcon.png</icondocmulti>
+		<helpdocicon>resources/images/icon_helpdoc.png</helpdocicon>
+		<buttonhover>resources/images/btn_hover.png</buttonhover>
+		<vsepline>resources/images/sep_v.png</vsepline>
+		<hsepline>resources/images/sep_h.png</hsepline>
+		<iconcheckon>resources/images/check_on.png</iconcheckon>
+		<iconcheckoff>resources/images/check_off.png</iconcheckoff>
+		<hoverbg>resources/images/hover.png</hoverbg>
+    <iconvideo0>resources/images/Whats_New.png</iconvideo0>
+    <iconvideo1>resources/images/Visual_CSS.png</iconvideo1>
+	    <iconvideo2>resources/images/Responsive_Design.png</iconvideo2> 
+	    <iconvideo3>resources/images/Phonegap.png</iconvideo3> 
+	    <iconvideo4>resources/images/JQuery_Support.png</iconvideo4> 
+	</resources>
+	
+	<filetypes>
+		<!-- links extensions to images and names-->
+			<!-- fticon maps to a resource in the image resources list above-->
+		<type>
+			<ftextension>HTML</ftextension>
+			<fticon>icondoc</fticon>
+		</type>
+		<type>
+			<ftextension>HTM</ftextension>
+			<fticon>icondoc</fticon>
+		</type>
+		<type>
+			<ftextension>PHP_MySQL</ftextension>
+			<fticon>icondoc</fticon>
+		</type>
+		<type>
+			<ftextension>PHP</ftextension>
+			<fticon>icondoc</fticon>
+		</type>
+		<type>
+			<ftextension>JavaScript</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+		<type>
+			<ftextension>JS</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+		<type>
+			<ftextension>XML</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+		<type>
+			<ftextension>XSLT</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+		<type>
+			<ftextension>XSL</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+		<type>
+			<ftextension>CSS</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+		<type>
+			<ftextension>LESS</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+		<type>
+			<ftextension>SASS</ftextension>
+			<fticon>icondocsecondary</fticon>
+		</type>
+    <type>
+      <ftextension>Site</ftextension>
+      <fticon>icondocsite</fticon>
+    </type>
+    <type>
+      <ftextension>Multi</ftextension>
+      <fticon>icondocmulti</fticon>
+    </type>
+	</filetypes>
+	
+	<dimensions>
+		<dialog>
+			<w>700</w><h>500</h>
+		</dialog>
+		<icon>
+			<w>16</w><h>16</h>
+		</icon>
+		<prodicon>
+			<w>48</w><h>48</h>
+		</prodicon>
+		<header>
+			<w>700</w><h>104</h>
+		</header>
+		<footer>
+			<w>700</w><h>24</h>
+		</footer>
+		<listarea>
+			<w>700</w><h>262</h>
+		</listarea>
+		<linksarea>
+			<w>700</w><h>110</h>
+		</linksarea>
+		<itemline>
+			<w>180</w><h>22</h>
+		</itemline>
+		<headline>
+			<w>180</w><h>27</h>
+		</headline>
+		<paddingoverall>
+			<w>9</w><h>15</h>
+		</paddingoverall>
+		<indentitemline>
+			<w>8</w><h>0</h>
+		</indentitemline>
+	</dimensions>
+	
+	<colors>
+		<cbackground>FFFFFF</cbackground>
+		<clinksarea>FFFFFF</clinksarea>
+		<cfooter>EEEEEE</cfooter>
+	</colors>
+	
+	<fonts>
+		<headline>
+			<name>Arial</name>
+			<size>13</size>
+			<bold>true</bold>
+			<italic>false</italic>
+			<!--1E364F-->
+			<color>555555</color>
+		</headline>
+		<itemline>
+			<name>Arial</name>
+			<size>11</size>
+			<bold>false</bold>
+			<italic>false</italic>
+			<color>000000</color>
+		</itemline>
+		<itemlineemph>
+			<name>Arial</name>
+			<size>11</size>
+			<bold>true</bold>
+			<italic>false</italic>
+			<color>000000</color>
+		</itemlineemph>
+	</fonts>
+</startpage>

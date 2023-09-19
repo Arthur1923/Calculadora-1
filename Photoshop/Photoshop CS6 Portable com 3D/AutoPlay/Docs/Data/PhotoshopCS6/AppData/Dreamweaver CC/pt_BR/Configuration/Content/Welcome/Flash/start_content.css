@@ -1,0 +1,110 @@
+body {
+	margin: 0px;
+	-webkit-user-select: none;
+	cursor: default;
+}
+
+th, td {
+	margin: 0px;
+	border-right: 2px solid #EEE;
+	vertical-align: top;
+}
+th {
+	height: 20px;
+	text-align: left;
+	padding-left: 15px;
+}
+
+#content, #footer {
+	border-bottom: 2px solid #EEE;
+}
+
+#more_sample, p{
+	margin: 0px 0px 0px 15px;
+	background-size: auto, 0% 0%;
+	padding: 3px;
+	padding-left: 25px;
+	height: 16px;
+	white-space: pre;
+}
+p#more_sample:hover, p:hover { 
+	background-size: auto, 100% 100%;
+}
+
+p#pref_item:hover {
+	background-size: auto;
+}
+
+.big_icon p{
+	padding:8px 0px 9px 45px;
+}
+
+#links {
+	width: 50%;
+}
+
+#links p{
+	padding-left: 5px;
+}
+
+#logo {
+	
+}
+
+table {
+	margin: 8px 0px 5px;
+	table-layout:fixed;
+}
+
+#pref {
+	background-color: #EEE;
+	padding: 0px 2px;
+}
+
+#logo p {
+	padding: 0px;
+	white-space: normal;
+}
+#recent0:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent1:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent2:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent3:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent4:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent5:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent6:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent7:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent8:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#recent9:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#more_recent:hover{background:url(resources/images/folder.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#new_items p:hover{background:url(resources/images/appicondoc.png) 3px 3px no-repeat, url(resources/images/hover2.png) 0px 0px no-repeat !important;}
+
+#new_items p:hover:nth-child(8){background:url(resources/images/multiscreenIcon.png) 3px 3px no-repeat, url(resources/images/hover2.png) 0px 0px no-repeat !important;}
+
+#new_items p:hover:nth-child(9){background:url(resources/images/siteicondoc.png) 3px 3px no-repeat, url(resources/images/hover2.png) 0px 0px no-repeat !important;}
+
+#new_items p:hover:last-child{background:url(resources/images/folder.png) 3px 3px no-repeat, url(resources/images/hover2.png) 0px 0px no-repeat !important;}
+
+#video_items p:hover:nth-child(1){background:url(resources/images/Whats_New.png) 3px 3px no-repeat, url(resources/images/hover.png) 0px 0px no-repeat !important;}
+
+#video_items p:hover:nth-child(2){background:url(resources/images/Visual_CSS.png) 3px 3px no-repeat, url(resources/images/hover.png) 0px 0px no-repeat !important;}
+
+#video_items p:hover:nth-child(3){background:url(resources/images/Responsive_Design.png) 3px 3px no-repeat, url(resources/images/hover.png) 0px 0px no-repeat !important;}
+
+#video_items p:hover:nth-child(4){background:url(resources/images/Phonegap.png) 3px 3px no-repeat, url(resources/images/hover.png) 0px 0px no-repeat !important;}
+
+#video_items p:hover:nth-child(5){background:url(resources/images/JQuery_Support.png) 3px 3px no-repeat, url(resources/images/hover.png) 0px 0px no-repeat !important;}
+
+#video_items p:hover:last-child{background:url(resources/images/folder.png) 3px 3px no-repeat, url(resources/images/hover1.png) 0px 0px no-repeat !important;}
+
+#links p:hover{background:url(resources/images/hover1.png) 0px 0px no-repeat !important; background-size: 100% 100%;}

@@ -1,0 +1,312 @@
+REGEDIT4
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\AdobeViewer]
+"EULA"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer]
+"ENU_GUID"="{AC76BA86-7AD7-1033-7B44-AB0000000001}"
+"ServiceControl"="601"
+@=""
+"ReinstallMode"="omus"
+"Path"="C:\\Program Files\\Adobe\\Reader 11.0\\"
+"InstallTime"="20:45:31"
+"InstallDate"="14/11/2013"
+"bUpdateModeSet"=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer\IOD]
+@="\"C:\\Program Files\\Adobe\\Reader 11.0\\Esl\\AiodLite.dll\""
+"Library"="C:\\Program Files\\Adobe\\Reader 11.0\\Esl\\AiodLite.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer\Optimization]
+"Enabled"="YES"
+"DefragStatus"=dword:00000001
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Installer\Updates]
+@=""
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\InstallPath]
+@="C:\\Program Files\\Adobe\\Reader 11.0\\Reader"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Language]
+"UI"="ENU"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Language\current]
+@="acrord32.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Acrobat Reader\11.0\Language\next]
+@="acrord32.dll"
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Adobe ARM\1.0\ARM]
+"iCheckReader"=dword:00000003
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0]
+"FreeBeforeSlopAdjust"=dword:00380000
+"FreeSpace"=dword:001e84cc
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\ApplicationPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Photoshop\60.0\PluginPath]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Acrobat Reader]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Acrobat Reader\11.0]
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Adobe\Repair\Acrobat Reader\11.0\IOD]
+@="\"C:\\Program Files\\Adobe\\Reader 11.0\\Esl\\aiodlite.dll\""
+"Library"="C:\\Program Files\\Adobe\\Reader 11.0\\Esl\\aiodlite.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe]
+
+[HKEY_CURRENT_USER\Software\Adobe\0208064D5FE7]
+@="B7821EA72E859EC6278A2F5DA4B3239A5EE84EBD"
+
+[HKEY_CURRENT_USER\Software\Adobe\0F7BD497772C]
+@="7882CE794ACE2745166A60DF51F068153CBFE8B6"
+
+[HKEY_CURRENT_USER\Software\Adobe\73473EB04822]
+@="138150A6813B883D1F5C92D381E6ED1C499E186F"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AdobeViewer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVConversionFromPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVConversionFromPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVConversionToPDF]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVConversionToPDF\cSettings]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVGeneral]
+"bAppInitialized"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVGeneral\cDockables]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVGeneral\cTaskPanes]
+"iBasicEchoSignPaneStickyStatus"=dword:00000000
+"iBasicSharePaneStickyStatus"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\AVGeneral\cTaskPanes\cBasicCommentPane]
+"bAllowMultipleExpandedPanels"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\ExitSection]
+"bLastExitNormal"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\FlashDebug]
+"bAutomationEnabled"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Installer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Installer\Migrated]
+"{AC76BA86-7AD7-1033-7B44-AB0000000001}"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Language]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Language\current]
+@="acrord32.dll"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Language\UseMUI]
+"bUseMUI"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Originals]
+"sProofingSpace"=hex:55,2e,53,2e,20,57,65,62,20,43,6f,61,74,65,64,20,28,53,57,\
+  4f,50,29,20,76,32,00
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\SDI]
+"iNullDocBottom"=dword:000002ba
+"iNullDocLeft"=dword:0000001e
+"bNullDocMaximized"=dword:00000000
+"iNullDocRight"=dword:0000041b
+"iNullDocTop"=dword:0000001e
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\Selection]
+"aDefaultSelect"="Select"
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\ServicesRdr]
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\ServicesRdr\cInstallTypes]
+"icom_2E_adobe_2E_acrobat_2E_services_2E_cfg_5F_11_2E_0_2E_13_2E_0"=dword:00000001
+"icom_2E_adobe_2E_acrobat_2E_services_2E_DEXEchoSign_5F_11_2E_0_2E_13_2E_0"=dword:00000001
+"icom_2E_adobe_2E_acrobat_2E_services_2E_DEXShare_5F_11_2E_0_2E_13_2E_0"=dword:00000001
+"icom_2E_adobe_2E_acrobat_2E_extensions_2E_files_5F_11_2E_0_2E_13_2E_0"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Acrobat Reader\11.0\SPAGlobal]
+"bBezelEnabled"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\11.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Acrobat\11.0\DiskCabs]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer]
+
+[HKEY_CURRENT_USER\Software\Adobe\Adobe Synchronizer\11.0]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage]
+"GUID"="ec92fc28-2b28-4dc8-89db-e0a5da2c7610"
+"Agent"="D:\\SOFTWARES\\SOFTWARE DIVERSOS\\photoshop cs6 extended com 3d\\Photoshop CS6 Portable com 3D\\AutoPlay\\Docs\\App\\PhotoshopCS6\\"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Acrobat11]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6]
+"OptIn"=dword:00000000
+"Date"="2015-10-29T22:26:03Z"
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6Headlights\Adobe Photoshop CS6]
+"Prerelease"=dword:00000000
+"Build"="13.0 20120315.r.428 2012/03/15:21:00:00"
+"LaunchCounter"=dword:00000005
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\CS6_CS6_Adobe Photoshop CS6_13.0]
+"OptIn"=dword:00000000
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Reader 11]
+
+[HKEY_CURRENT_USER\Software\Adobe\CommonFiles\Usage\Reader 11_Acrobat11_Reader_11.0.13]
+
+[HKEY_CURRENT_USER\Software\Adobe\IAC]
+"UserID"="DE1E24670C01867F53BEEBB798315A2"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList]
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:52.9191Z]
+@="G:\\PAW\\IMGS USADAS\\bloco.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:53.1152Z]
+@="G:\\PAW\\IMGS USADAS\\caderno.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:53.2743Z]
+@="G:\\PAW\\IMGS USADAS\\estojo.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:53.4624Z]
+@="G:\\PAW\\IMGS USADAS\\Formas-de-Pagamento-final.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:53.6345Z]
+@="G:\\PAW\\IMGS USADAS\\images.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:53.7606Z]
+@="G:\\PAW\\IMGS USADAS\\mochila.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:53.9277Z]
+@="G:\\PAW\\IMGS USADAS\\moletom.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:54.1088Z]
+@="G:\\PAW\\IMGS USADAS\\Regata-Branca-1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:47:54.2629Z]
+@="G:\\PAW\\IMGS USADAS\\short.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:57:45.50811Z]
+@="G:\\PAW\\CONTATO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T16:58:01.38613Z]
+@="G:\\PAW\\TRABALHECONOSCO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T17:01:32.12615Z]
+@="G:\\PAW\\ARRUMAR.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T17:06:53.61016Z]
+@="G:\\PAW\\PAPELARIA-VESTUARIO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:13:31.6160Z]
+@="G:\\PAW\\LAYOUT\\COMOFUNCIONA.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:13:32.2362Z]
+@="G:\\PAW\\LAYOUT\\LOGIN.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:13:32.4393Z]
+@="G:\\PAW\\LAYOUT\\PAPELARIA-VESTUARIO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:13:32.461Z]
+@="G:\\PAW\\LAYOUT\\CONTATO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:13:32.6564Z]
+@="G:\\PAW\\LAYOUT\\PROMOCAO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:13:32.8355Z]
+@="G:\\PAW\\LAYOUT\\TERMOS.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:13:33.506Z]
+@="G:\\PAW\\LAYOUT\\TRABALHECONOSCO.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:14:27.7767Z]
+@="G:\\PAW\\LAYOUT\\SABRINARIBEIRO-CP-2MOD-InformaticaParaInternet-ETEC-JK.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:15:53.7078Z]
+@="G:\\aula composição e projetos\\COMPOSIÇÃO DO LAYOUT\\layout1.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T18:15:55.1129Z]
+@="G:\\aula composição e projetos\\COMPOSIÇÃO DO LAYOUT\\layout1-O.psd"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T20:25:50.8670Z]
+@="C:\\Users\\Camila\\Desktop\\cartao_frente_pronto.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T20:25:51.2971Z]
+@="C:\\Users\\Camila\\Desktop\\cartao_verso_pronto.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T20:26:28.8452Z]
+@="C:\\Users\\Camila\\Desktop\\blebleble.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-09-23T20:27:21.8013Z]
+@="C:\\Users\\Camila\\Desktop\\cartao_pronto_frente.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-10-29T21:10:44.1211Z]
+@="D:\\FOTOS\\PARANAPIACABA RETRO.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2015-10-29T22:26:17.9300Z]
+@="C:\\Users\\User\\Desktop\\1.png"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-03-15T22:30:28.6250Z]
+@="C:\\Users\\User\\Desktop\\PHOTOSHOP CS6\\Aula 1\\leao-e-gato1.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-03-16T00:31:43.5730Z]
+@="C:\\Users\\User\\Desktop\\PHOTOSHOP CS6\\Aula 1\\cachorros.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-03-16T00:42:53.4631Z]
+@="C:\\Users\\User\\Desktop\\PHOTOSHOP CS6\\Aula 2\\Outdoor1baixa.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2016-03-16T01:25:48.1330Z]
+@="C:\\Users\\User\\Desktop\\PHOTOSHOP CS6\\Aula 1\\patos.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\MediaBrowser\MRU\Photoshop\FileList\2023-09-13T22:20:25.9800Z]
+@="C:\\Users\\Tecnico\\Desktop\\patos.jpg"
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop]
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0]
+"uiLanguageKey CS6"="en_US"
+"oldPaletteFontTypeKey CS6"=dword:00000000
+"AppWindowPosition"="[40,21,1230,706]"
+"MemoryUsage"=dword:0000003c
+"ShowStatusWindow"=dword:00000001
+
+[HKEY_CURRENT_USER\Software\Adobe\Photoshop\60.0\VisitedDirs]
+"STARTUPIMAGEDIRECTORY"="C:\\Users\\Tecnico\\Desktop\\"

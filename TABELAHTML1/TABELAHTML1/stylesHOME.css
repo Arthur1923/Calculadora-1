@@ -1,0 +1,19 @@
+body {
+    font-family: Arial;
+    background-color: #161515;
+}
+
+h1 {
+    color: white;
+    background-color: #107c41;
+}
+
+h2 {
+    font-size: 250%;
+    text-align: center;
+    color: #107c41;
+}
+
+p {
+    color: white;
+}

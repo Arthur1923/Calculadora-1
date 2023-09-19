@@ -1,0 +1,105 @@
+/* Reset some default styles */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+}
+
+/* Basic styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #371010;
+}
+
+header {
+    background: url('/imagens/logo.png');
+    background-size: 90px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: top left;
+    background: -moz-radial-gradient(color blue to red);
+    color: #da0909;
+    padding: 25px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li:last-child {
+    margin-right: 0;
+}
+
+nav a {
+    text-decoration: none;
+    color: #fff;
+    font-weight: bold;
+}
+
+main {
+    padding: 20px;
+}
+
+.hero {
+    text-align: center;
+    background-image: url('hero-background.jpg');
+    background-size: cover;
+    color: #fff;
+    padding: 100px 0;
+}
+
+.hero h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.cta-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff6600;
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+    border-radius: 5px;
+}
+
+.featured-anime {
+    margin-top: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.anime-card {
+    flex-basis: calc(33.33% - 20px);
+    background-color: #fff;
+    margin-bottom: 20px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+.anime-card img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+footer {
+    text-align: center;
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+}
+
+/* Media Queries for Responsive Design (Adjust as needed) */
+@media screen and (max-width: 768px) {
+    .featured-anime .anime-card {
+        flex-basis: calc(50% - 20px);
+    }
+}
